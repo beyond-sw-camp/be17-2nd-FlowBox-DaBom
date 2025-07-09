@@ -148,7 +148,7 @@ DaBom은 기존 영상 플랫폼의 한계를 극복하고 창작자와 시청�
 
 
 ## 🌐 도메인 주소
-[www.daaabom.kro.kr](https://www.daaabom.kro.kr) {:target="_blank"}
+[www.daaabom.kro.kr](https://www.daaabom.kro.kr)
 
 
 
@@ -161,7 +161,7 @@ Figma 화면 설계서 보기
 <br /><br />
 
 ## 🎥 시연
-시연 영상 및 gif
+[회원가입](https://github.com/user-attachments/assets/13bf93f3-9062-4e57-9efa-9094ce1c60eb)
 
 <br /><br />
 
