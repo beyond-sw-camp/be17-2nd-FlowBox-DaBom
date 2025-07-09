@@ -166,6 +166,8 @@ Figma 화면 설계서 보기
 [회원가입](https://github.com/user-attachments/assets/13bf93f3-9062-4e57-9efa-9094ce1c60eb)
 ### 로그인
 [로그인](https://github.com/user-attachments/assets/e8de0f0e-2756-48d1-b4ae-0e2748519739)
+### 메인->비디오 플레이어
+[비디오플레이어](/videos/main-to-video-player.mp4)
 
 <br /><br />
 
