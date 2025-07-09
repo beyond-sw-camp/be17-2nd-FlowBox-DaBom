@@ -161,7 +161,11 @@ Figma 화면 설계서 보기
 <br /><br />
 
 ## 🎥 시연
+
+### 회원가입
 [회원가입](https://github.com/user-attachments/assets/13bf93f3-9062-4e57-9efa-9094ce1c60eb)
+### 로그인
+[로그인]https://github.com/user-attachments/assets/c840a6bb-858e-459d-aa8a-9376f6801f0c
 
 <br /><br />
 
