@@ -131,10 +131,16 @@ DaBom은 기존 영상 플랫폼의 한계를 극복하고 창작자와 시청�
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Pinia](https://img.shields.io/badge/Pinia-FFD500?style=for-the-badge&logo=pinia&logoColor=black)
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS-S3-orange?logo=amazonaws&logoColor=white)
+![AWS CloudFront](https://img.shields.io/badge/AWS-CloudFront-yellow?logo=amazonaws&logoColor=white)
+![AWS ACM](https://img.shields.io/badge/AWS-ACM-blue?logo=amazonaws&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS-EC2-red?logo=amazonaws&logoColor=white)
 </div>
 
 
