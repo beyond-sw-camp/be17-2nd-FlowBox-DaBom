@@ -148,7 +148,7 @@ DaBom은 기존 영상 플랫폼의 한계를 극복하고 창작자와 시청�
 
 
 ## 🌐 도메인 주소
-![DABOM](https://www.daaabom.kro.kr)
+[![DABOM](https://www.daaabom.kro.kr/logo.png)](https://www.daaabom.kro.kr)
 
 
 <br /><br />
