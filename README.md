@@ -137,10 +137,11 @@ DaBom은 기존 영상 플랫폼의 한계를 극복하고 창작자와 시청�
 
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS-S3-orange?logo=amazonaws&logoColor=white)
-![AWS CloudFront](https://img.shields.io/badge/AWS-CloudFront-yellow?logo=amazonaws&logoColor=white)
-![AWS ACM](https://img.shields.io/badge/AWS-ACM-blue?logo=amazonaws&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS-EC2-red?logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS CloudFront](https://img.shields.io/badge/AWS%20CloudFront-yellow?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS ACM](https://img.shields.io/badge/AWS%20ACM-blue?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-red?style=for-the-badge&logo=amazonaws&logoColor=white)
 </div>
 
 
