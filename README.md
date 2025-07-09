@@ -156,7 +156,7 @@ DaBom은 기존 영상 플랫폼의 한계를 극복하고 창작자와 시청�
 <br /><br />
 
 ## 🧭 화면 설계서
-Figma 화면 설계서 보기
+[Figma](https://www.figma.com/design/XrAt6kVzyFZkyMOmxZK5aC/Dabom?node-id=0-1&t=5wFaXkDT0Tz5yplm-1)
 
 <br /><br />
 
