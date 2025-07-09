@@ -173,7 +173,7 @@ DaBom은 기존 영상 플랫폼의 한계를 극복하고 창작자와 시청�
 ### DM
 [DM](https://github.com/user-attachments/assets/75d5198c-a322-49ac-b3df-8af50639e1c6)
 ### 투게더-방만들기
-[방만들기](https://github.com/user-attachments/assets/e887b79a-59f2-4347-aa03-6bef3186dea8)
+[방만들기](https://github.com/user-attachments/assets/d71239e7-b97f-4053-8afd-07015c7792cc)
 
 
 <br /><br />
