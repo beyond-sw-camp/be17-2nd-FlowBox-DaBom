@@ -168,6 +168,13 @@ DaBom은 기존 영상 플랫폼의 한계를 극복하고 창작자와 시청�
 [로그인](https://github.com/user-attachments/assets/e8de0f0e-2756-48d1-b4ae-0e2748519739)
 ### 메인->비디오 플레이어
 [비디오플레이어](https://github.com/user-attachments/assets/74082e19-f78b-471f-b45c-7e1c08d1d320)
+### 채널
+[채널](https://github.com/user-attachments/assets/649e786d-49ab-445e-9fa5-a2d241a5b13d)
+### DM
+[DM](https://github.com/user-attachments/assets/75d5198c-a322-49ac-b3df-8af50639e1c6)
+### 투게더-방만들기
+[방만들기](https://github.com/user-attachments/assets/e887b79a-59f2-4347-aa03-6bef3186dea8)
+
 
 <br /><br />
 
