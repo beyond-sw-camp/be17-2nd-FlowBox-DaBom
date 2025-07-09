@@ -1,10 +1,8 @@
 <div align="center">
 
-# 🎬 DaBom
+<img src="/images/dabom2.png" alt="DaBom Logo" width="300"/>
 
 ### 영상 스트리밍을 중심으로 한 멀티 플랫폼 커뮤니케이션 서비스
-
-<img src="/images/dabom2.png" alt="DaBom Logo" width="300"/>
 
 ## 🌌 Team FlowBox
 
